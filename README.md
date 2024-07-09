@@ -1,0 +1,2 @@
+# educatinal-project
+only frontend
